@@ -1,2 +1,2 @@
-# useMutltiState
+# useMutiState
 Created with CodeSandbox
